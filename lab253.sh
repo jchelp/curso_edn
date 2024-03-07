@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Define o seu nome 
+#Define o seu nome completo 
 seu_nome="jose_carlos"
 
 #Loop para criar 25 arquivos
